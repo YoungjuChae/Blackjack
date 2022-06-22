@@ -1,3 +1,5 @@
+# Blackjack
+
 Text-Based Blackjack game where you play against a computer. 
 ```
 The rules are:
